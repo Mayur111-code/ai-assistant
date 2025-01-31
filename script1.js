@@ -219,7 +219,7 @@ const handleOutgoingMessage = () => {
     const outgoingMessageHtml = `
     
         <div class="message__content">
-            <img class="message__avatar" src="profile.png" alt="User avatar">
+            <img class="message__avatar" src="user.png" alt="User avatar">
             <p class="message__text"></p>
         </div>
 
